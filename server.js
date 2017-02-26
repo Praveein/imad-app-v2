@@ -44,7 +44,7 @@ var articleOne={
                         ${heading}
                     </h3>    
                     <div>
-                        ${data}
+                        ${date}
                     </div>
                     <div>
                      ${content}
