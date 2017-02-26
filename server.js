@@ -15,9 +15,10 @@ var articleOne={
       <p> This is the  content for my first article.This is the  content for my first article.This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content  This is the  content for my first This is the  content for my first 
       </p>
       <p> This is the  content for my first article.This is the  content for my first article.This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content for my first This is the  content  This is the  content for my first This is the  content for my first 
-      </p>`
+      </p> `
     
-}
+};
+
  function createtemplate(data){
         var title=data.title;
         var date =data.data;
