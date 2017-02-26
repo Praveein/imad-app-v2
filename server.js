@@ -42,6 +42,7 @@ var articleOne={
                        <hr/>
                     <h3>
                         ${heading}
+                    </h3>    
                     <div>
                         ${data}
                     </div>
@@ -50,7 +51,8 @@ var articleOne={
                     </div>
             </div>
         </body>
-        </html>`;
+        </html>
+        `;
     return htmltemplate;    
 }
 
