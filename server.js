@@ -21,7 +21,7 @@ var articleOne={
 
  function createtemplate(data){
         var title=data.title;
-        var date =data.data;
+        var date =data.date;
         var content=data.content;
         var heading=data.heading;
      
